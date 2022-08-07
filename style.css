@@ -1,0 +1,28 @@
+/* Оптимизация */
+html {
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+    /* margin: 0; */
+}
+
+body {
+    color: aliceblue;
+    background-color: #333;
+}
